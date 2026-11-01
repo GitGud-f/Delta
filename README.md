@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" alt="PyTorch">
   <img src="https://img.shields.io/badge/ONNX_Runtime-005CED?logo=onnx&logoColor=white" alt="ONNX Runtime">
   <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" alt="Flutter">
-  <img src="https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg" alt="License">
+  <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT">
 </p>
 
 **Delta** is an end-to-end Edge AI framework for monocular depth estimation on resource-constrained devices. By leveraging **knowledge distillation**, Delta compresses a large, high-capacity Vision Transformer teacher (**Depth Anything V2**) into an ultra-compact student model featuring a hybrid **MobileViT-XS** backbone and a lightweight **MiniDPT** decoder.
